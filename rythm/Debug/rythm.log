@@ -1,0 +1,27 @@
+﻿  소스.c
+G:\리듬게임 실행\rythm\rythm\소스.c(68,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2641,12): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+G:\리듬게임 실행\rythm\rythm\소스.c(3612,9): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+G:\리듬게임 실행\rythm\rythm\소스.c(511,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(512,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(1892,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(1893,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(1983,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(1990,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2359,10): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2360,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2831,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2852,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2954,29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2955,38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(2961,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(3339,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(3340,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(4227,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\리듬게임 실행\rythm\rythm\소스.c(98,21): warning C4101: 'fdd' :참조되지 않은 지역 변수입니다.
+G:\리듬게임 실행\rythm\rythm\소스.c(116,9): warning C4101: 'speedin' :참조되지 않은 지역 변수입니다.
+G:\리듬게임 실행\rythm\rythm\소스.c(98,31): warning C4101: 'fff' :참조되지 않은 지역 변수입니다.
+G:\리듬게임 실행\rythm\rythm\소스.c(132,9): warning C4101: 'user_speed' :참조되지 않은 지역 변수입니다.
+G:\리듬게임 실행\rythm\rythm\소스.c(98,26): warning C4101: 'fee' :참조되지 않은 지역 변수입니다.
+G:\리듬게임 실행\rythm\rythm\소스.c(98,36): warning C4101: 'fgg' :참조되지 않은 지역 변수입니다.
+  rythm.vcxproj -> G:\리듬게임 실행\rythm\Debug\rythm.exe
