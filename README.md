@@ -23,3 +23,8 @@
 
 
 ## .sln파일을  visual studio 환경에서 ctrl+f5 로 실행해볼 수 있습니다
+
+
+## 플레이 영상
+[![Video Label](http://img.youtube.com/vi/Zp_8y8oAqxM/0.jpg)](https://youtu.be/Zp_8y8oAqxM)
+이미지를 클릭하면 유튜브로 이동합니다
